@@ -1,0 +1,8 @@
+COMMAND: v.in.ogr dsn="C:\web\deq\DEQ_regions.shp" output="DEQ_regions" layer="DEQ_regions" min_area=0.0001 snap=-1
+GISDBASE: C:\web\deq
+LOCATION: OregonDEQ MAPSET: jemorgan USER: jemorgan DATE: Fri Oct 03 11:32:26 2014
+-----------------------------------------------------
+36 input polygons
+Total area: 2.50722E+011 (36 areas)
+Overlapping area: 0 (0 areas)
+Area without category: 0 (0 areas)

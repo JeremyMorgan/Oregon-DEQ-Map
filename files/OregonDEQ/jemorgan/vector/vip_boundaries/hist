@@ -1,0 +1,8 @@
+COMMAND: v.in.ogr dsn="C:\web\vip\vip_boundaries.shp" output="vip_boundaries" layer="vip_boundaries" min_area=0.0001 snap=-1
+GISDBASE: C:\web\deq
+LOCATION: OregonDEQ MAPSET: jemorgan USER: jemorgan DATE: Fri Oct 03 16:10:42 2014
+-----------------------------------------------------
+9 input polygons
+Total area: 3.89721E+009 (11 areas)
+Overlapping area: 0 (0 areas)
+Area without category: 65932.3 (2 areas)

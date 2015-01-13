@@ -1,0 +1,7 @@
+COMMAND: v.edit map="test" layer=1 type="point,line,boundary,centroid" tool="create" thresh=-1,0,0 snap="no"
+GISDBASE: C:\web\deq
+LOCATION: OregonDEQ MAPSET: jemorgan USER: jemorgan DATE: Fri Oct 03 16:12:30 2014
+---------------------------------------------------------------------------------
+COMMAND: v.db.connect map="test" driver="dbf" database="$GISDBASE/$LOCATION_NAME/$MAPSET/dbf/" table="test" key="cat" layer=1 fs=" "
+GISDBASE: C:\web\deq
+LOCATION: OregonDEQ MAPSET: jemorgan USER: jemorgan DATE: Fri Oct 03 16:12:30 2014
